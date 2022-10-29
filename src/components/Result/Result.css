@@ -1,0 +1,19 @@
+.result {
+  text-align: center;
+  color: #a8bfc9;
+}
+
+button {
+  padding: 1rem;
+  width: 10%;
+  background: transparent;
+  color: #a8bfc9;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+button:hover {
+  color: #1f3640;
+  background-color: #a8bfc9;
+}

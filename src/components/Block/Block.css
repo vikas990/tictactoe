@@ -1,0 +1,25 @@
+.block {
+  border-color: white;
+  border: none;
+  border-radius: 10%;
+  box-shadow: 0 0 0.5rem #888;
+  width: 5rem;
+  height: 5rem;
+  text-align: center;
+  font-size: 5em;
+  font-weight: bold;
+  line-height: 5rem;
+  margin: 0.5rem;
+}
+
+.block:hover {
+  box-shadow: 0 0 0.937rem #888;
+}
+
+.x {
+  color: #2fc4be;
+}
+
+.o {
+  color: #f2b137;
+}
